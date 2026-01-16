@@ -1,5 +1,5 @@
 *.log
-venv_belajar/
+env_belajar/
 .env
 __pycache__/
 *.pyc
